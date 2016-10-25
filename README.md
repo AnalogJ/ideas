@@ -10,7 +10,7 @@ Things I want to build/wish existed
   - airbnb (hotels)
   - skype
   - whatsapp
-  - google drive/map/calendar
+  - google drive/map/calendar/contacts/mail
   - text messaging/phone
   - facebook
  
