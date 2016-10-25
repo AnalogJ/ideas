@@ -6,7 +6,8 @@ Things I want to build/wish existed
 - VR game with Hubble Deep space data.. basically be able to see space in 3d/move around in it?
 - Wedding app that integrates with:
   - pinterest
-  - tripadvisor
+  - tripadvisor (food/hotels/points of interest)
+  - airbnb (hotels)
   - skype
   - whatsapp
   - google drive/map/calendar
