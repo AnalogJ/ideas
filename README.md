@@ -13,7 +13,7 @@ Things I want to build/wish existed
   - google drive/map/calendar/contacts/mail/youtube videos
   - text messaging/phone
   - facebook
- - calendar/map that integrates with tripit
+- calendar/map that integrates with tripit
   - list all the places I'm going next and pin them
   - integrate with tripadvisor so I can quickly search for things to do near each pin?
   - allow me to quickly add a tripadvisor pin to my tripit itinerary?
