@@ -18,7 +18,7 @@ Things I want to build/wish existed
   - integrate with tripadvisor so I can quickly search for things to do near each pin?
   - allow me to quickly add a tripadvisor pin to my tripit itinerary?
   - create a google custom map with support for layers (so we can add search results ontop for mobile)
-  
+ - social media alert/lock. notify me if my picture is found online
   
 # Calendar + Map
     Hey /r/travel,
